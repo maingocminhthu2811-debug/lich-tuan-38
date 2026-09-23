@@ -1,0 +1,6 @@
+{
+  "name": "Thông Tin Trọng Tâm Lịch Công Tác Tuần 38 - HĐND TPHCM",
+  "description": "Bản đồ Infographic và lịch công tác tương tác Tuần 38 HĐND TPHCM: Kỳ họp HĐND và Hội nghị lớn, Khảo sát và giám sát chuyên sâu, Văn hóa, xã hội và tiếp xúc cử tri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
